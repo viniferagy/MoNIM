@@ -1,0 +1,10 @@
+cython
+numpy
+torch
+datasets
+tqdm
+regex
+sacrebleu
+cffi
+transformers
+scikit-learn
